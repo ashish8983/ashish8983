@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ashish8983
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Python and ML
+- 💞️ I’m looking to collaborate on coding 
+- 📫 How to reach me https://github.com/ashish8983/ashish8983
